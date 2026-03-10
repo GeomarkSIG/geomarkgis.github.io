@@ -2,7 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/image-header-round.png
+  <p align="center">
+  <img src="/assets/images/image-header-round.png" width="250">
+</p>
 ---
 
 <p align="center">
