@@ -9,7 +9,7 @@ header:
   <img src="/assets/images/image-header-round.png" width="250">
 </p>
 
-[Resume](https://chriskhanhtran.github.io/cv/){: .btn .btn--info} [Portfolio](https://chriskhanhtran.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
+[CV](https://geomarksig.github.io/CV20260310.pdf){: .btn .btn--info} [Portfolio](https://geomarksig.github.io/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/robin-maume/){: .btn .btn--info}
 {: .text-center}
 
 ## Career Objectives
