@@ -5,7 +5,9 @@ header:
   image: /assets/images/Image-header_round.png
 ---
 
-<img src="https://geomarkgis.github.io/assets/images/Image-header_round.png" width="250">{: .align-center}
+<p align="center">
+  <img src="https://geomarkgis.github.io/assets/images/Image-header_round.png" width="250">
+</p>
 
 [Resume](https://chriskhanhtran.github.io/cv/){: .btn .btn--info} [Portfolio](https://chriskhanhtran.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
 {: .text-center}
