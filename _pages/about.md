@@ -6,7 +6,7 @@ header:
 ---
 
 <p align="center">
-  <img src="assets/images/image-header-round.png" width="250">
+  <img src="/assets/images/image-header-round.png" width="250">
 </p>
 
 [Resume](https://chriskhanhtran.github.io/cv/){: .btn .btn--info} [Portfolio](https://chriskhanhtran.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
